@@ -5,8 +5,7 @@
 # kakfa
 -> Then used kafka , producer to fetch the data and send to the topic stock_data in broker running on localhost:9890
 -> using consumer to fetch the data from the broker and do some basic analysis without preprocessing much and diretly trained with Elasticnet regression model
-![alt text](kafka-architecture-topics-producers-consumers-4043335854.png)
-
+![alt text](http://cloudurable.com/images/kafka-architecture-topics-producers-consumers.png)
 
 # prediction
 ->prediction of high based on the latest value of open,close,high,volume,dividends and stock splits
