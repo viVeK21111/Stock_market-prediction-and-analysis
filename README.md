@@ -15,4 +15,4 @@
 --> for more insights check the example for AAPL (apple.inc) stock in /temp.ipynb
 
 # how to run
---> to run the project, first execure producer.py and then consumer.py with kafka,hadoop and necessary python libraries installed on your linux os or you can use aws ec2 with linux os.
+--> to run the project, first execute producer.py and then consumer.py with kafka,hadoop and necessary python libraries installed on your linux os or you can use aws ec2 with linux os.
