@@ -8,9 +8,9 @@
 ![alt text](http://cloudurable.com/images/kafka-architecture-topics-producers-consumers.png)
 
 # prediction
-->prediction of high based on the latest value of open,close,high,volume,dividends and stock splits
-->applied shift() method for the data , to train the previous data for the present date so we can predict the high for current date and previous day data
-->trained ml model is saved using joblib. (/model.joblib) 
+->prediction of high based on the latest value of open,close,high,volume,dividends and stock splits<br>
+->applied shift() method for the data , to train the previous data for the present date so we can predict the high for current date and previous day data <br>
+->trained ml model is saved using joblib. (/model.joblib) <br>
 
 --> for more insights check the example for AAPL (apple.inc) stock in /temp.ipynb
 
